@@ -1,0 +1,23 @@
+#name-tag {
+	background-color: gray;
+	color: white;
+}
+
+#about {
+margin: 0 auto;
+width: 60%;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+}
+
+.column {
+	align-self: auto: 
+}
+
+#pic img{
+	height: 50%;
+	width: 30%;
+}
